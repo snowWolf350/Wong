@@ -2,7 +2,7 @@
 
 With having done flappy bird, i decided to move on and butcher another classic in the name of science. This time i tried making pong.<br>
 
-<h1> What i learned in this project </h1>
+<h4> What i learned in this project </h4>
 <ul>
   <li>handling objects that collide constantly</li>
   <li>boundary checking</li>
